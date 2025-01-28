@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610372603113",
+    "project_id": "flutter-controle-estoque",
+    "storage_bucket": "flutter-controle-estoque.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610372603113:android:d7b5e542a3b5014f2ef478",
+        "android_client_info": {
+          "package_name": "ufrn.com.controle_de_estoque_residencial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYK-tBMH6ZiS6IhBnZvkgSO5mUDBCLECo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
